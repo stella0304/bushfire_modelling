@@ -7,4 +7,5 @@ Bushfires' behaviour is affected by factors such as fuel load, land slope and wi
 * Code that check if a specific area starts burning at time t+1.
 * Code that simulates the whole burning until all fires stop.
 * Code that determines the optimal place for prescribed burning to occur.
+
 Test cases were also included in the files.
